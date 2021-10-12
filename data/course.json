@@ -20,5 +20,7 @@
     "content": "",
     "website": "test-pr-611"
   },
-  "learning_resource_types": []
+  "learning_resource_types": [
+    "Competition Videos"
+  ]
 }
